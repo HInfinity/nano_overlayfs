@@ -15,5 +15,5 @@ sudo cp ./scripts/reboot-ro /root/reboot-ro
 sudo cp ./scripts/reboot-rw /root/reboot-rw
 chmod +x /root/reboot-ro
 chmod +x /root/reboot-rw
-
+exit # exit root shell
 
