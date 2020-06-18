@@ -6,6 +6,7 @@ fi
 
 echo -e "\e[47m \e[32m Copy hooks"
 echo -e "\e[49m \e[39m .."
+echo overlay >> /etc/initramfs-tools/modules
 cp ./hooks/root-ro /etc/initramfs-tools/hooks/root-ro
 cp ./scripts/root-ro /etc/initramfs-tools/scripts/init-bottom/root-ro
 echo -e "\e[47m \e[32m Mod hooks"
