@@ -1,3 +1,8 @@
+# Trevor uploaded Ho script update files.
+Added convert_to_rfs.sh updated by Ho for Xavier. 
+Added install.sh but this is not part of the nano_overlay - was unable to find where to upload this to in Git so may need to be moved later.
+
+
 # ORIGINAL PLAY BY PLAY
 Modified by Jaron Warburton for automatic install
 
